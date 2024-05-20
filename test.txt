@@ -1,0 +1,2 @@
+user=san
+password=applesan
